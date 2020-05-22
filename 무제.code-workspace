@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../JS-kyuri"
+		},
+		{
+			"path": "../WEB-2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../web2 2"
+		},
+		{
+			"path": "../5주차 세션"
+		},
+		{
+			"path": "../4주차 세션"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB-2"
+	}
+}
